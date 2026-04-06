@@ -122,3 +122,64 @@ footer {
     border-top: 1px solid #222;
     margin-top: 40px;
 }
+
+#frame_imagen {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.frame_imagen_2{
+  background-color: black;
+  width: 100px auto;
+  height: 100px auto;
+  padding: 5px;
+  margin: 5px;
+   border-radius: 50%;
+  border-radius: 8px;
+}
+.imagen {
+  
+  border-radius: 50%;
+  display: block;
+  margin: 5px auto;
+  object-fit: cover;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);;
+}
+
+.imagen2 {
+  width: 180px auto;
+  height: 180px auto;
+  border-radius: 50%;
+  display: block;
+  margin: 5px auto;
+  object-fit: cover;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);;
+}
+.imagen3 {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  display: block;
+  margin: 5px;
+}
+.frame_datos{
+  
+  padding: 5px;
+  
+    margin: 20px auto;
+  height: auto;
+  margin-left:130px ;
+  margin-top: -115px ;
+  
+}
+
+#box_datos{
+    margin: 20px auto;
+  background-color: #DDC9AD;
+  height: auto;
+  margin: 5px;
+  
+}
